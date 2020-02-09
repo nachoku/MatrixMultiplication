@@ -1,0 +1,154 @@
+MatrixA(3,3), MatrixB(3,3), MatrixC(3,3)
+row:0 - col:0 
+ A: 0  
+ B: 0  
+ C: 0 
+
+row:0 - col:1 
+ A: 0  
+ B: 1  
+ C: 1 
+
+row:0 - col:2 
+ A: 0  
+ B: 2  
+ C: 2 
+
+row:1 - col:0 
+ A: 3  
+ B: 0  
+ C: 3 
+
+row:1 - col:1 
+ A: 3  
+ B: 1  
+ C: 4 
+
+row:1 - col:2 
+ A: 3  
+ B: 2  
+ C: 5 
+
+row:2 - col:0 
+ A: 6  
+ B: 0  
+ C: 6 
+
+row:2 - col:1 
+ A: 6  
+ B: 1  
+ C: 7 
+
+row:2 - col:2 
+ A: 6  
+ B: 2  
+ C: 8 
+
+row:0 - col:0 
+ A: 1  
+ B: 3  
+ C: 0 
+
+row:0 - col:1 
+ A: 1  
+ B: 4  
+ C: 1 
+
+row:0 - col:2 
+ A: 1  
+ B: 5  
+ C: 2 
+
+row:1 - col:0 
+ A: 4  
+ B: 3  
+ C: 3 
+
+row:1 - col:1 
+ A: 4  
+ B: 4  
+ C: 4 
+
+row:1 - col:2 
+ A: 4  
+ B: 5  
+ C: 5 
+
+row:2 - col:0 
+ A: 7  
+ B: 3  
+ C: 6 
+
+row:2 - col:1 
+ A: 7  
+ B: 4  
+ C: 7 
+
+row:2 - col:2 
+ A: 7  
+ B: 5  
+ C: 8 
+
+row:0 - col:0 
+ A: 2  
+ B: 6  
+ C: 0 
+
+row:0 - col:1 
+ A: 2  
+ B: 7  
+ C: 1 
+
+row:0 - col:2 
+ A: 2  
+ B: 8  
+ C: 2 
+
+row:1 - col:0 
+ A: 5  
+ B: 6  
+ C: 3 
+
+row:1 - col:1 
+ A: 5  
+ B: 7  
+ C: 4 
+
+row:1 - col:2 
+ A: 5  
+ B: 8  
+ C: 5 
+
+row:2 - col:0 
+ A: 8  
+ B: 6  
+ C: 6 
+
+row:2 - col:1 
+ A: 8  
+ B: 7  
+ C: 7 
+
+row:2 - col:2 
+ A: 8  
+ B: 8  
+ C: 8 
+
+Performance= 0.79 GFlop/s, Time= 0.000 msec, Size= 54 Ops
+Comparing CUBLAS Matrix Multiply with CPU results: PASS
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=00:15:30
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=0,cput=00:00:00,mem=0kb,ncpus=16,vmem=0kb,walltime=00:00:00
+ 
+ 

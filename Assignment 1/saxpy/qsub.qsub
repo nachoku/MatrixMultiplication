@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -N test
+#PBS -l select=1:ncpus=8:chip_type=e5-2665:mem=14gb
+#PBS -j oe
+module purge
+module load ispc
+cd $PBS_O_WORKDIR
+./saxpy --tasks

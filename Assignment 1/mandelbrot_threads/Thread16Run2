@@ -1,0 +1,436 @@
+[mandelbrot serial]:		[301.472] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (400): 0.152 
+Thread 1 (400): 0.154 
+
+ ---
+Thread 0 (400): 0.151 
+Thread 1 (400): 0.151 
+
+ ---
+Thread 0 (400): 0.158 
+Thread 1 (400): 0.151 
+
+ ---
+Thread 1 (400): 0.152 
+Thread 0 (400): 0.152 
+
+ ---
+Thread 1 (400): 0.151 
+Thread 0 (400): 0.151 
+
+ ---
+[mandelbrot thread]:		[151.336] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.99x speedup from 2 threads)
+[mandelbrot serial]:		[180.361] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 1 (400): 0.075 
+Thread 0 (400): 0.106 
+
+ ---
+Thread 1 (400): 0.075 
+Thread 0 (400): 0.106 
+
+ ---
+Thread 1 (400): 0.075 
+Thread 0 (400): 0.107 
+
+ ---
+Thread 1 (400): 0.075 
+Thread 0 (400): 0.106 
+
+ ---
+Thread 1 (400): 0.075 
+Thread 0 (400): 0.106 
+
+ ---
+[mandelbrot thread]:		[105.875] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.70x speedup from 2 threads)
+[mandelbrot serial]:		[301.454] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (200): 0.101 
+Thread 2 (200): 0.079 
+Thread 1 (200): 0.116 
+Thread 3 (200): 0.104 
+
+ ---
+Thread 0 (200): 0.108 
+Thread 3 (200): 0.078 
+Thread 2 (200): 0.114 
+Thread 1 (200): 0.126 
+
+ ---
+Thread 2 (200): 0.073 
+Thread 1 (200): 0.073 
+Thread 3 (200): 0.078 
+Thread 0 (200): 0.079 
+
+ ---
+Thread 0 (200): 0.081 
+Thread 1 (200): 0.075 
+Thread 2 (200): 0.073 
+Thread 3 (200): 0.080 
+
+ ---
+Thread 0 (200): 0.079 
+Thread 2 (200): 0.073 
+Thread 1 (200): 0.074 
+Thread 3 (200): 0.078 
+
+ ---
+[mandelbrot thread]:		[79.209] ms
+Wrote image file mandelbrot-thread.ppm
+				(3.81x speedup from 4 threads)
+[mandelbrot serial]:		[180.383] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 2 (200): 0.039 
+Thread 0 (200): 0.062 
+Thread 1 (200): 0.064 
+Thread 3 (200): 0.042 
+
+ ---
+Thread 3 (200): 0.036 
+Thread 0 (200): 0.080 
+Thread 2 (200): 0.071 
+Thread 1 (200): 0.084 
+
+ ---
+Thread 1 (200): 0.045 
+Thread 0 (200): 0.064 
+Thread 2 (200): 0.065 
+Thread 3 (200): 0.053 
+
+ ---
+Thread 3 (200): 0.036 
+Thread 2 (200): 0.039 
+Thread 1 (200): 0.045 
+Thread 0 (200): 0.062 
+
+ ---
+Thread 2 (200): 0.044 
+Thread 1 (200): 0.044 
+Thread 3 (200): 0.036 
+Thread 0 (200): 0.062 
+
+ ---
+[mandelbrot thread]:		[62.006] ms
+Wrote image file mandelbrot-thread.ppm
+				(2.91x speedup from 4 threads)
+[mandelbrot serial]:		[301.478] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (100): 0.062 
+Thread 1 (100): 0.062 
+Thread 4 (100): 0.041 
+Thread 2 (100): 0.054 
+Thread 5 (100): 0.051 
+Thread 6 (100): 0.052 
+Thread 7 (100): 0.043 
+Thread 3 (100): 0.050 
+
+ ---
+Thread 5 (100): 0.033 
+Thread 1 (100): 0.045 
+Thread 2 (100): 0.035 
+Thread 0 (100): 0.059 
+Thread 6 (100): 0.042 
+Thread 4 (100): 0.043 
+Thread 3 (100): 0.043 
+Thread 7 (100): 0.039 
+
+ ---
+Thread 0 (100): 0.039 
+Thread 7 (100): 0.040 
+Thread 2 (100): 0.051 
+Thread 3 (100): 0.048 
+Thread 1 (100): 0.070 
+Thread 4 (100): 0.041 
+Thread 5 (100): 0.047 
+Thread 6 (100): 0.046 
+
+ ---
+Thread 2 (100): 0.034 
+Thread 5 (100): 0.034 
+Thread 1 (100): 0.041 
+Thread 0 (100): 0.042 
+Thread 3 (100): 0.042 
+Thread 4 (100): 0.043 
+Thread 6 (100): 0.053 
+Thread 7 (100): 0.052 
+
+ ---
+Thread 0 (100): 0.070 
+Thread 1 (100): 0.061 
+Thread 2 (100): 0.053 
+Thread 7 (100): 0.040 
+Thread 3 (100): 0.042 
+Thread 5 (100): 0.040 
+Thread 6 (100): 0.040 
+Thread 4 (100): 0.061 
+
+ ---
+[mandelbrot thread]:		[64.874] ms
+Wrote image file mandelbrot-thread.ppm
+				(4.65x speedup from 8 threads)
+[mandelbrot serial]:		[180.323] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 2 (100): 0.035 
+Thread 0 (100): 0.058 
+Thread 1 (100): 0.050 
+Thread 4 (100): 0.038 
+Thread 3 (100): 0.025 
+Thread 5 (100): 0.029 
+Thread 7 (100): 0.019 
+Thread 6 (100): 0.019 
+
+ ---
+Thread 2 (100): 0.024 
+Thread 7 (100): 0.018 
+Thread 0 (100): 0.034 
+Thread 4 (100): 0.019 
+Thread 3 (100): 0.032 
+Thread 1 (100): 0.061 
+Thread 6 (100): 0.018 
+Thread 5 (100): 0.019 
+
+ ---
+Thread 1 (100): 0.028 
+Thread 0 (100): 0.034 
+Thread 3 (100): 0.029 
+Thread 4 (100): 0.019 
+Thread 2 (100): 0.043 
+Thread 6 (100): 0.021 
+Thread 5 (100): 0.020 
+Thread 7 (100): 0.018 
+
+ ---
+Thread 6 (100): 0.019 
+Thread 7 (100): 0.019 
+Thread 4 (100): 0.020 
+Thread 5 (100): 0.021 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.026 
+Thread 1 (100): 0.029 
+Thread 0 (100): 0.034 
+
+ ---
+Thread 6 (100): 0.019 
+Thread 7 (100): 0.019 
+Thread 5 (100): 0.020 
+Thread 4 (100): 0.021 
+Thread 3 (100): 0.021 
+Thread 2 (100): 0.025 
+Thread 1 (100): 0.029 
+Thread 0 (100): 0.035 
+
+ ---
+[mandelbrot thread]:		[34.176] ms
+Wrote image file mandelbrot-thread.ppm
+				(5.28x speedup from 8 threads)
+[mandelbrot serial]:		[301.602] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (50): 0.037 
+Thread 7 (50): 0.022 
+Thread 2 (50): 0.020 
+Thread 1 (50): 0.035 
+Thread 3 (50): 0.020 
+Thread 8 (50): 0.039 
+Thread 13 (50): 0.020 
+Thread 11 (50): 0.048 
+Thread 9 (50): 0.037 
+Thread 14 (50): 0.025 
+Thread 12 (50): 0.039 
+Thread 10 (50): 0.036 
+Thread 15 (50): 0.021 
+Thread 4 (50): 0.035 
+Thread 6 (50): 0.021 
+Thread 5 (50): 0.031 
+
+ ---
+Thread 0 (50): 0.020 
+Thread 1 (50): 0.029 
+Thread 12 (50): 0.020 
+Thread 2 (50): 0.021 
+Thread 14 (50): 0.020 
+Thread 13 (50): 0.021 
+Thread 15 (50): 0.021 
+Thread 3 (50): 0.020 
+Thread 11 (50): 0.017 
+Thread 4 (50): 0.017 
+Thread 5 (50): 0.017 
+Thread 6 (50): 0.020 
+Thread 7 (50): 0.021 
+Thread 8 (50): 0.021 
+Thread 9 (50): 0.025 
+Thread 10 (50): 0.016 
+
+ ---
+Thread 6 (50): 0.021 
+Thread 0 (50): 0.034 
+Thread 1 (50): 0.023 
+Thread 7 (50): 0.035 
+Thread 2 (50): 0.043 
+Thread 8 (50): 0.031 
+Thread 15 (50): 0.020 
+Thread 14 (50): 0.020 
+Thread 9 (50): 0.050 
+Thread 12 (50): 0.021 
+Thread 10 (50): 0.046 
+Thread 4 (50): 0.035 
+Thread 3 (50): 0.048 
+Thread 11 (50): 0.037 
+Thread 13 (50): 0.027 
+Thread 5 (50): 0.016 
+
+ ---
+Thread 1 (50): 0.020 
+Thread 0 (50): 0.021 
+Thread 3 (50): 0.020 
+Thread 2 (50): 0.032 
+Thread 5 (50): 0.017 
+Thread 4 (50): 0.017 
+Thread 14 (50): 0.027 
+Thread 6 (50): 0.021 
+Thread 7 (50): 0.022 
+Thread 8 (50): 0.022 
+Thread 12 (50): 0.033 
+Thread 15 (50): 0.021 
+Thread 13 (50): 0.025 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.038 
+Thread 10 (50): 0.031 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 12 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 9 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 13 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 8 (50): 0.023 
+Thread 15 (50): 0.021 
+Thread 14 (50): 0.025 
+Thread 7 (50): 0.035 
+
+ ---
+[mandelbrot thread]:		[34.984] ms
+Wrote image file mandelbrot-thread.ppm
+				(8.62x speedup from 16 threads)
+[mandelbrot serial]:		[180.302] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 1 (50): 0.027 
+Thread 2 (50): 0.024 
+Thread 10 (50): 0.010 
+Thread 9 (50): 0.010 
+Thread 0 (50): 0.045 
+Thread 5 (50): 0.012 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 7 (50): 0.010 
+Thread 3 (50): 0.014 
+Thread 6 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 4 (50): 0.013 
+Thread 8 (50): 0.010 
+Thread 14 (50): 0.009 
+Thread 15 (50): 0.009 
+
+ ---
+Thread 2 (50): 0.015 
+Thread 1 (50): 0.016 
+Thread 0 (50): 0.018 
+Thread 3 (50): 0.023 
+Thread 4 (50): 0.013 
+Thread 14 (50): 0.009 
+Thread 13 (50): 0.009 
+Thread 7 (50): 0.011 
+Thread 6 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 5 (50): 0.012 
+Thread 10 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 15 (50): 0.010 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 8 (50): 0.010 
+Thread 11 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.012 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.015 
+Thread 1 (50): 0.017 
+Thread 0 (50): 0.019 
+Thread 12 (50): 0.010 
+Thread 14 (50): 0.009 
+Thread 15 (50): 0.009 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 8 (50): 0.010 
+Thread 11 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 6 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 5 (50): 0.012 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.014 
+Thread 2 (50): 0.015 
+Thread 1 (50): 0.017 
+Thread 12 (50): 0.010 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.008 
+Thread 14 (50): 0.009 
+Thread 15 (50): 0.009 
+
+ ---
+Thread 13 (50): 0.009 
+Thread 15 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.009 
+
+ ---
+[mandelbrot thread]:		[19.654] ms
+Wrote image file mandelbrot-thread.ppm
+				(9.17x speedup from 16 threads)
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=24gb,ncpus=16,walltime=00:30:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=96,cput=00:00:21,mem=14844kb,ncpus=16,vmem=254724kb,walltime=00:00:21
+ 
+ 

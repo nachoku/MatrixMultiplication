@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -N test
+#PBS -l select=1:ncpus=16:chip_type=e5-2665:mem=24gb
+#PBS -j oe
+module purge
+module load ispc
+cd $PBS_O_WORKDIR
+./mandelbrot --threads 2
+./mandelbrot --threads 2 --view 2
+./mandelbrot --threads 4
+./mandelbrot --threads 4 --view 2
+./mandelbrot --threads 8
+./mandelbrot --threads 8 --view 2 
+./mandelbrot --threads 16
+./mandelbrot --threads 16 --view 2

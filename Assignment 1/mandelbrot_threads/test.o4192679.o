@@ -1,0 +1,24 @@
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 8: 25400 Segmentation fault      ./mandelbrot --threads 2
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 9: 25404 Segmentation fault      ./mandelbrot --threads 2 --view 2
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 10: 25407 Segmentation fault      ./mandelbrot --threads 4
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 11: 25413 Segmentation fault      ./mandelbrot --threads 4 --view 2
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 12: 25417 Segmentation fault      ./mandelbrot --threads 8
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 13: 25427 Segmentation fault      ./mandelbrot --threads 8 --view 2
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 14: 25436 Segmentation fault      ./mandelbrot --threads 16
+/var/spool/pbs/mom_priv/jobs/4192679.pbs02.SC: line 15: 25453 Segmentation fault      ./mandelbrot --threads 16 --view 2
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=24gb,ncpus=16,walltime=00:30:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=110,cput=00:00:12,mem=13164kb,ncpus=16,vmem=250988kb,walltime=00:00:13
+ 
+ 

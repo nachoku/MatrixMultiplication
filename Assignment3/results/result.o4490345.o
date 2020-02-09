@@ -1,0 +1,596 @@
+Station0, process: 0
+SAME, process: 0 
+squareMatrixSideLength,12600,numMPICopies,1,walltime,9709.618045
+Station0, process: 03
+
+1.000000 1.000000 0.000000 
+0.000000 1.000000 1.000000 
+0.000000 0.000000 1.000000 
+Station0, process: 13
+
+1.000000 1.000000 0.000000 
+0.000000 1.000000 1.000000 
+0.000000 0.000000 1.000000 
+Station0, process: 33
+
+1.000000 1.000000 0.000000 
+0.000000 1.000000 1.000000 
+0.000000 0.000000 1.000000 
+Station0, process: 23
+
+1.000000 1.000000 0.000000 
+0.000000 1.000000 1.000000 
+0.000000 0.000000 1.000000 
+SAME, process: 0 
+0.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 
+1.000000 1.000000 0.000000 
+1.000000 2.000000 1.000000 
+0.000000 1.000000 2.000000 
+DIFFERENT, process: 0 
+squareMatrixSideLength,6,numMPICopies,4,walltime,0.000055
+DIFFERENT, process: 3 
+SAME, process: 3 
+0.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 
+1.000000 1.000000 0.000000 
+1.000000 2.000000 1.000000 
+0.000000 1.000000 2.000000 
+Station0, process: 02
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 62
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 32
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 42
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 52
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 12
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 22
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 72
+
+1.000000 1.000000 
+0.000000 1.000000 
+Station0, process: 82
+
+1.000000 1.000000 
+0.000000 1.000000 
+DIFFERENT, process: 8 
+DIFFERENT, process: 8 
+SAME, process: 8 
+0.000000 0.000000 
+0.000000 0.000000 
+1.000000 1.000000 
+1.000000 2.000000 
+DIFFERENT, process: 5 
+DIFFERENT, process: 1 
+DIFFERENT, process: 6 
+DIFFERENT, process: 3 
+DIFFERENT, process: 4 
+SAME, process: 4 
+0.000000 0.000000 
+0.000000 0.000000 
+1.000000 1.000000 
+1.000000 2.000000 
+DIFFERENT, process: 4 
+SAME, process: 0 
+0.000000 0.000000 
+0.000000 0.000000 
+1.000000 1.000000 
+1.000000 2.000000 
+DIFFERENT, process: 0 
+DIFFERENT, process: 0 
+squareMatrixSideLength,6,numMPICopies,9,walltime,0.000061
+DIFFERENT, process: 2 
+DIFFERENT, process: 7 
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[41239,1],0]
+  Exit code:    255
+--------------------------------------------------------------------------
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[41578,1],21]
+  Exit code:    255
+--------------------------------------------------------------------------
+Station0, process: 01
+
+1.000000 
+Station0, process: 21
+
+1.000000 
+Station0, process: 61
+
+1.000000 
+Station0, process: 41
+
+1.000000 
+Station0, process: 101
+
+1.000000 
+Station0, process: 31
+
+1.000000 
+Station0, process: 81
+
+1.000000 
+Station0, process: 91
+
+1.000000 
+Station0, process: 131
+
+1.000000 
+Station0, process: 51
+
+1.000000 
+Station0, process: 121
+
+1.000000 
+Station0, process: 71
+
+1.000000 
+Station0, process: 111
+
+1.000000 
+Station0, process: 141
+
+1.000000 
+Station0, process: 151
+
+1.000000 
+Station0, process: 11
+
+1.000000 
+Station0, process: 321
+
+1.000000 
+Station0, process: 331
+
+1.000000 
+Station0, process: 341
+
+1.000000 
+Station0, process: 351
+
+1.000000 
+Station0, process: 181
+
+1.000000 
+Station0, process: 281
+
+1.000000 
+Station0, process: 301
+
+1.000000 
+Station0, process: 311
+
+1.000000 
+Station0, process: 191
+
+1.000000 
+Station0, process: 231
+
+1.000000 
+Station0, process: 291
+
+1.000000 
+Station0, process: 241
+
+1.000000 
+Station0, process: 251
+
+1.000000 
+Station0, process: 271
+
+1.000000 
+Station0, process: 161
+
+1.000000 
+Station0, process: 201
+
+1.000000 
+Station0, process: 261
+
+1.000000 
+Station0, process: 211
+
+1.000000 
+Station0, process: 221
+
+1.000000 
+Station0, process: 171
+
+1.000000 
+DIFFERENT, process: 14 
+DIFFERENT, process: 15 
+DIFFERENT, process: 13 
+DIFFERENT, process: 22 
+DIFFERENT, process: 27 
+DIFFERENT, process: 26 
+DIFFERENT, process: 17 
+DIFFERENT, process: 23 
+DIFFERENT, process: 16 
+DIFFERENT, process: 32 
+DIFFERENT, process: 33 
+DIFFERENT, process: 19 
+DIFFERENT, process: 10 
+DIFFERENT, process: 34 
+SAME, process: 0 
+0.000000 
+1.000000 
+DIFFERENT, process: 8 
+DIFFERENT, process: 9 
+DIFFERENT, process: 11 
+DIFFERENT, process: 7 
+SAME, process: 7 
+0.000000 
+1.000000 
+DIFFERENT, process: 35 
+DIFFERENT, process: 20 
+DIFFERENT, process: 25 
+DIFFERENT, process: 28 
+DIFFERENT, process: 32 
+DIFFERENT, process: 33 
+DIFFERENT, process: 21 
+DIFFERENT, process: 21 
+DIFFERENT, process: 20 
+DIFFERENT, process: 18 
+DIFFERENT, process: 30 
+DIFFERENT, process: 31 
+DIFFERENT, process: 0 
+DIFFERENT, process: 2 
+DIFFERENT, process: 3 
+DIFFERENT, process: 34 
+DIFFERENT, process: 22 
+DIFFERENT, process: 23 
+DIFFERENT, process: 35 
+DIFFERENT, process: 29 
+DIFFERENT, process: 14 
+DIFFERENT, process: 12 
+DIFFERENT, process: 5 
+DIFFERENT, process: 15 
+DIFFERENT, process: 5 
+DIFFERENT, process: 4 
+DIFFERENT, process: 4 
+DIFFERENT, process: 26 
+DIFFERENT, process: 24 
+DIFFERENT, process: 17 
+DIFFERENT, process: 29 
+DIFFERENT, process: 29 
+DIFFERENT, process: 27 
+DIFFERENT, process: 28 
+DIFFERENT, process: 28 
+DIFFERENT, process: 16 
+DIFFERENT, process: 3 
+DIFFERENT, process: 10 
+DIFFERENT, process: 0 
+DIFFERENT, process: 11 
+DIFFERENT, process: 1 
+DIFFERENT, process: 24 
+DIFFERENT, process: 25 
+DIFFERENT, process: 27 
+DIFFERENT, process: 35 
+SAME, process: 14 
+0.000000 
+1.000000 
+DIFFERENT, process: 7 
+DIFFERENT, process: 6 
+DIFFERENT, process: 23 
+DIFFERENT, process: 34 
+DIFFERENT, process: 18 
+DIFFERENT, process: 31 
+DIFFERENT, process: 30 
+DIFFERENT, process: 22 
+DIFFERENT, process: 19 
+DIFFERENT, process: 9 
+DIFFERENT, process: 4 
+DIFFERENT, process: 13 
+DIFFERENT, process: 13 
+DIFFERENT, process: 7 
+DIFFERENT, process: 7 
+DIFFERENT, process: 10 
+DIFFERENT, process: 1 
+DIFFERENT, process: 1 
+DIFFERENT, process: 2 
+DIFFERENT, process: 14 
+DIFFERENT, process: 5 
+DIFFERENT, process: 0 
+DIFFERENT, process: 0 
+DIFFERENT, process: 12 
+DIFFERENT, process: 12 
+DIFFERENT, process: 8 
+DIFFERENT, process: 6 
+DIFFERENT, process: 6 
+DIFFERENT, process: 11 
+DIFFERENT, process: 33 
+DIFFERENT, process: 35 
+DIFFERENT, process: 32 
+DIFFERENT, process: 34 
+DIFFERENT, process: 24 
+DIFFERENT, process: 19 
+DIFFERENT, process: 18 
+DIFFERENT, process: 17 
+DIFFERENT, process: 31 
+DIFFERENT, process: 31 
+DIFFERENT, process: 30 
+DIFFERENT, process: 30 
+DIFFERENT, process: 29 
+DIFFERENT, process: 25 
+DIFFERENT, process: 28 
+DIFFERENT, process: 26 
+DIFFERENT, process: 21 
+SAME, process: 21 
+0.000000 
+1.000000 
+DIFFERENT, process: 16 
+DIFFERENT, process: 2 
+DIFFERENT, process: 14 
+DIFFERENT, process: 5 
+DIFFERENT, process: 3 
+DIFFERENT, process: 15 
+DIFFERENT, process: 17 
+DIFFERENT, process: 9 
+DIFFERENT, process: 11 
+DIFFERENT, process: 8 
+DIFFERENT, process: 32 
+DIFFERENT, process: 33 
+DIFFERENT, process: 35 
+DIFFERENT, process: 21 
+DIFFERENT, process: 23 
+SAME, process: 28 
+0.000000 
+1.000000 
+DIFFERENT, process: 20 
+DIFFERENT, process: 9 
+DIFFERENT, process: 21 
+DIFFERENT, process: 7 
+DIFFERENT, process: 19 
+DIFFERENT, process: 6 
+DIFFERENT, process: 8 
+DIFFERENT, process: 15 
+DIFFERENT, process: 3 
+DIFFERENT, process: 18 
+DIFFERENT, process: 10 
+DIFFERENT, process: 1 
+DIFFERENT, process: 13 
+DIFFERENT, process: 27 
+DIFFERENT, process: 22 
+DIFFERENT, process: 20 
+DIFFERENT, process: 25 
+DIFFERENT, process: 0 
+squareMatrixSideLength,6,numMPICopies,36,walltime,0.322400
+DIFFERENT, process: 12 
+DIFFERENT, process: 24 
+DIFFERENT, process: 2 
+DIFFERENT, process: 14 
+DIFFERENT, process: 4 
+DIFFERENT, process: 26 
+DIFFERENT, process: 28 
+DIFFERENT, process: 16 
+SAME, process: 35 
+0.000000 
+1.000000 
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+Matrix size cannot be evenly split amongst resources!
+Quitting....
+=>> PBS: job killed: walltime 14406 exceeded limit 14400
+mpiexec: abort is already in progress...hit ctrl-c again to forcibly terminate
+
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=400gb,ncpus=64,walltime=04:00:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=127,cput=02:42:30,mem=6230616kb,ncpus=64,vmem=6754668kb,walltime=04:00:06
+ 
+ 

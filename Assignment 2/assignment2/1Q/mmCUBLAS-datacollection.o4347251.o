@@ -1,0 +1,26 @@
+[Matrix Multiply CUBLAS] - Starting...
+GPU Device 0: "Tesla V100-PCIE-16GB" with compute capability 7.0
+
+MatrixA(3200,3200), MatrixB(3200,3200), MatrixC(3200,3200)
+Computing result using CUBLAS...done.
+Performance= 11095.95 GFlop/s, Time= 5.906 msec, Size= 65536000000 Ops
+Computing result using host CPU...done.
+Comparing CUBLAS Matrix Multiply with CPU results: PASS
+
+NOTE: The CUDA Samples are not meant for performance measurements. Results may vary when GPU Boost is enabled.
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=00:19:50
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=99,cput=00:04:38,mem=476672kb,ncpus=16,vmem=10168112kb,walltime=00:04:38
+ 
+ 

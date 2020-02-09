@@ -1,0 +1,467 @@
+MatrixA(4,4), MatrixB(4,4), MatrixC(4,4)
+Block ID:(0, 0)
+Thread ID:(0, 0)
+row:0 - col:0 
+ A: 0  
+ B: 0  
+ C: 0 
+
+Block ID:(0, 0)
+Thread ID:(1, 0)
+row:0 - col:1 
+ A: 0  
+ B: 1  
+ C: 1 
+
+Block ID:(0, 0)
+Thread ID:(2, 0)
+row:0 - col:2 
+ A: 0  
+ B: 2  
+ C: 2 
+
+Block ID:(0, 0)
+Thread ID:(3, 0)
+row:0 - col:3 
+ A: 0  
+ B: 3  
+ C: 3 
+
+Block ID:(0, 1)
+Thread ID:(0, 0)
+row:1 - col:0 
+ A: 4  
+ B: 0  
+ C: 4 
+
+Block ID:(0, 1)
+Thread ID:(1, 0)
+row:1 - col:1 
+ A: 4  
+ B: 1  
+ C: 5 
+
+Block ID:(0, 1)
+Thread ID:(2, 0)
+row:1 - col:2 
+ A: 4  
+ B: 2  
+ C: 6 
+
+Block ID:(0, 1)
+Thread ID:(3, 0)
+row:1 - col:3 
+ A: 4  
+ B: 3  
+ C: 7 
+
+Block ID:(0, 3)
+Thread ID:(0, 0)
+row:3 - col:0 
+ A: 12  
+ B: 0  
+ C: 12 
+
+Block ID:(0, 3)
+Thread ID:(1, 0)
+row:3 - col:1 
+ A: 12  
+ B: 1  
+ C: 13 
+
+Block ID:(0, 3)
+Thread ID:(2, 0)
+row:3 - col:2 
+ A: 12  
+ B: 2  
+ C: 14 
+
+Block ID:(0, 3)
+Thread ID:(3, 0)
+row:3 - col:3 
+ A: 12  
+ B: 3  
+ C: 15 
+
+Block ID:(0, 2)
+Thread ID:(0, 0)
+row:2 - col:0 
+ A: 8  
+ B: 0  
+ C: 8 
+
+Block ID:(0, 2)
+Thread ID:(1, 0)
+row:2 - col:1 
+ A: 8  
+ B: 1  
+ C: 9 
+
+Block ID:(0, 2)
+Thread ID:(2, 0)
+row:2 - col:2 
+ A: 8  
+ B: 2  
+ C: 10 
+
+Block ID:(0, 2)
+Thread ID:(3, 0)
+row:2 - col:3 
+ A: 8  
+ B: 3  
+ C: 11 
+
+Block ID:(0, 1)
+Thread ID:(0, 0)
+row:1 - col:0 
+ A: 5  
+ B: 4  
+ C: 4 
+
+Block ID:(0, 1)
+Thread ID:(1, 0)
+row:1 - col:1 
+ A: 5  
+ B: 5  
+ C: 5 
+
+Block ID:(0, 1)
+Thread ID:(2, 0)
+row:1 - col:2 
+ A: 5  
+ B: 6  
+ C: 6 
+
+Block ID:(0, 1)
+Thread ID:(3, 0)
+row:1 - col:3 
+ A: 5  
+ B: 7  
+ C: 7 
+
+Block ID:(0, 0)
+Thread ID:(0, 0)
+row:0 - col:0 
+ A: 1  
+ B: 4  
+ C: 0 
+
+Block ID:(0, 0)
+Thread ID:(1, 0)
+row:0 - col:1 
+ A: 1  
+ B: 5  
+ C: 1 
+
+Block ID:(0, 0)
+Thread ID:(2, 0)
+row:0 - col:2 
+ A: 1  
+ B: 6  
+ C: 2 
+
+Block ID:(0, 0)
+Thread ID:(3, 0)
+row:0 - col:3 
+ A: 1  
+ B: 7  
+ C: 3 
+
+Block ID:(0, 3)
+Thread ID:(0, 0)
+row:3 - col:0 
+ A: 13  
+ B: 4  
+ C: 12 
+
+Block ID:(0, 3)
+Thread ID:(1, 0)
+row:3 - col:1 
+ A: 13  
+ B: 5  
+ C: 13 
+
+Block ID:(0, 3)
+Thread ID:(2, 0)
+row:3 - col:2 
+ A: 13  
+ B: 6  
+ C: 14 
+
+Block ID:(0, 3)
+Thread ID:(3, 0)
+row:3 - col:3 
+ A: 13  
+ B: 7  
+ C: 15 
+
+Block ID:(0, 2)
+Thread ID:(0, 0)
+row:2 - col:0 
+ A: 9  
+ B: 4  
+ C: 8 
+
+Block ID:(0, 2)
+Thread ID:(1, 0)
+row:2 - col:1 
+ A: 9  
+ B: 5  
+ C: 9 
+
+Block ID:(0, 2)
+Thread ID:(2, 0)
+row:2 - col:2 
+ A: 9  
+ B: 6  
+ C: 10 
+
+Block ID:(0, 2)
+Thread ID:(3, 0)
+row:2 - col:3 
+ A: 9  
+ B: 7  
+ C: 11 
+
+Block ID:(0, 1)
+Thread ID:(0, 0)
+row:1 - col:0 
+ A: 6  
+ B: 8  
+ C: 4 
+
+Block ID:(0, 1)
+Thread ID:(1, 0)
+row:1 - col:1 
+ A: 6  
+ B: 9  
+ C: 5 
+
+Block ID:(0, 1)
+Thread ID:(2, 0)
+row:1 - col:2 
+ A: 6  
+ B: 10  
+ C: 6 
+
+Block ID:(0, 1)
+Thread ID:(3, 0)
+row:1 - col:3 
+ A: 6  
+ B: 11  
+ C: 7 
+
+Block ID:(0, 0)
+Thread ID:(0, 0)
+row:0 - col:0 
+ A: 2  
+ B: 8  
+ C: 0 
+
+Block ID:(0, 0)
+Thread ID:(1, 0)
+row:0 - col:1 
+ A: 2  
+ B: 9  
+ C: 1 
+
+Block ID:(0, 0)
+Thread ID:(2, 0)
+row:0 - col:2 
+ A: 2  
+ B: 10  
+ C: 2 
+
+Block ID:(0, 0)
+Thread ID:(3, 0)
+row:0 - col:3 
+ A: 2  
+ B: 11  
+ C: 3 
+
+Block ID:(0, 3)
+Thread ID:(0, 0)
+row:3 - col:0 
+ A: 14  
+ B: 8  
+ C: 12 
+
+Block ID:(0, 3)
+Thread ID:(1, 0)
+row:3 - col:1 
+ A: 14  
+ B: 9  
+ C: 13 
+
+Block ID:(0, 3)
+Thread ID:(2, 0)
+row:3 - col:2 
+ A: 14  
+ B: 10  
+ C: 14 
+
+Block ID:(0, 3)
+Thread ID:(3, 0)
+row:3 - col:3 
+ A: 14  
+ B: 11  
+ C: 15 
+
+Block ID:(0, 2)
+Thread ID:(0, 0)
+row:2 - col:0 
+ A: 10  
+ B: 8  
+ C: 8 
+
+Block ID:(0, 2)
+Thread ID:(1, 0)
+row:2 - col:1 
+ A: 10  
+ B: 9  
+ C: 9 
+
+Block ID:(0, 2)
+Thread ID:(2, 0)
+row:2 - col:2 
+ A: 10  
+ B: 10  
+ C: 10 
+
+Block ID:(0, 2)
+Thread ID:(3, 0)
+row:2 - col:3 
+ A: 10  
+ B: 11  
+ C: 11 
+
+Block ID:(0, 1)
+Thread ID:(0, 0)
+row:1 - col:0 
+ A: 7  
+ B: 12  
+ C: 4 
+
+Block ID:(0, 1)
+Thread ID:(1, 0)
+row:1 - col:1 
+ A: 7  
+ B: 13  
+ C: 5 
+
+Block ID:(0, 1)
+Thread ID:(2, 0)
+row:1 - col:2 
+ A: 7  
+ B: 14  
+ C: 6 
+
+Block ID:(0, 1)
+Thread ID:(3, 0)
+row:1 - col:3 
+ A: 7  
+ B: 15  
+ C: 7 
+
+Block ID:(0, 0)
+Thread ID:(0, 0)
+row:0 - col:0 
+ A: 3  
+ B: 12  
+ C: 0 
+
+Block ID:(0, 0)
+Thread ID:(1, 0)
+row:0 - col:1 
+ A: 3  
+ B: 13  
+ C: 1 
+
+Block ID:(0, 0)
+Thread ID:(2, 0)
+row:0 - col:2 
+ A: 3  
+ B: 14  
+ C: 2 
+
+Block ID:(0, 0)
+Thread ID:(3, 0)
+row:0 - col:3 
+ A: 3  
+ B: 15  
+ C: 3 
+
+Block ID:(0, 3)
+Thread ID:(0, 0)
+row:3 - col:0 
+ A: 15  
+ B: 12  
+ C: 12 
+
+Block ID:(0, 3)
+Thread ID:(1, 0)
+row:3 - col:1 
+ A: 15  
+ B: 13  
+ C: 13 
+
+Block ID:(0, 3)
+Thread ID:(2, 0)
+row:3 - col:2 
+ A: 15  
+ B: 14  
+ C: 14 
+
+Block ID:(0, 3)
+Thread ID:(3, 0)
+row:3 - col:3 
+ A: 15  
+ B: 15  
+ C: 15 
+
+Block ID:(0, 2)
+Thread ID:(0, 0)
+row:2 - col:0 
+ A: 11  
+ B: 12  
+ C: 8 
+
+Block ID:(0, 2)
+Thread ID:(1, 0)
+row:2 - col:1 
+ A: 11  
+ B: 13  
+ C: 9 
+
+Block ID:(0, 2)
+Thread ID:(2, 0)
+row:2 - col:2 
+ A: 11  
+ B: 14  
+ C: 10 
+
+Block ID:(0, 2)
+Thread ID:(3, 0)
+row:2 - col:3 
+ A: 11  
+ B: 15  
+ C: 11 
+
+Performance= 0.94 GFlop/s, Time= 0.000 msec, Size= 128 Ops
+Comparing CUBLAS Matrix Multiply with CPU results: PASS
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=00:15:30
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=0,cput=00:00:00,mem=0kb,ncpus=16,vmem=0kb,walltime=00:00:03
+ 
+ 

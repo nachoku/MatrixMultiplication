@@ -1,0 +1,3856 @@
+[mandelbrot serial]:		[322.633] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (400): 0.203 
+Thread 1 (400): 0.198 
+
+ ---
+Thread 1 (400): 0.207 
+Thread 0 (400): 0.201 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 0 (400): 0.201 
+Thread 1 (400): 0.193 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 0 (400): 0.201 
+Thread 1 (400): 0.198 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 0 (400): 0.201 
+Thread 1 (400): 0.190 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 0 (400): 0.162 
+Thread 1 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.178 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 0 (400): 0.200 
+Thread 1 (400): 0.196 
+
+ ---
+Thread 0 (400): 0.200 
+Thread 1 (400): 0.198 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 0 (400): 0.211 
+Thread 1 (400): 0.200 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.163 
+Thread 0 (400): 0.163 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.161 
+Thread 0 (400): 0.162 
+
+ ---
+Thread 1 (400): 0.162 
+Thread 0 (400): 0.162 
+
+ ---
+[mandelbrot thread]:		[161.801] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.99x speedup from 2 threads)
+[mandelbrot serial]:		[193.115] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 1 (400): 0.117 
+Thread 0 (400): 0.154 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.119 
+Thread 0 (400): 0.154 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.083 
+Thread 0 (400): 0.116 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.124 
+Thread 0 (400): 0.152 
+
+ ---
+Thread 1 (400): 0.119 
+Thread 0 (400): 0.159 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.116 
+Thread 0 (400): 0.152 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+Thread 1 (400): 0.081 
+Thread 0 (400): 0.114 
+
+ ---
+Thread 1 (400): 0.082 
+Thread 0 (400): 0.115 
+
+ ---
+Thread 1 (400): 0.080 
+Thread 0 (400): 0.113 
+
+ ---
+[mandelbrot thread]:		[113.327] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.70x speedup from 2 threads)
+[mandelbrot serial]:		[322.684] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (200): 0.139 
+Thread 1 (200): 0.129 
+Thread 2 (200): 0.140 
+Thread 3 (200): 0.121 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.112 
+Thread 3 (200): 0.109 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 0 (200): 0.087 
+Thread 2 (200): 0.084 
+Thread 3 (200): 0.107 
+
+ ---
+Thread 1 (200): 0.080 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.086 
+
+ ---
+Thread 1 (200): 0.080 
+Thread 2 (200): 0.080 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.086 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 2 (200): 0.079 
+Thread 0 (200): 0.084 
+Thread 3 (200): 0.085 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 0 (200): 0.087 
+Thread 2 (200): 0.083 
+Thread 3 (200): 0.098 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.083 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.111 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.111 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 2 (200): 0.079 
+Thread 0 (200): 0.084 
+Thread 3 (200): 0.084 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.117 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 2 (200): 0.079 
+Thread 0 (200): 0.084 
+Thread 3 (200): 0.084 
+
+ ---
+Thread 1 (200): 0.080 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.100 
+Thread 3 (200): 0.102 
+Thread 1 (200): 0.085 
+
+ ---
+Thread 1 (200): 0.080 
+Thread 2 (200): 0.080 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.086 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.078 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.083 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.086 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.111 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.083 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.078 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 2 (200): 0.079 
+Thread 0 (200): 0.084 
+Thread 3 (200): 0.084 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.079 
+Thread 2 (200): 0.080 
+Thread 0 (200): 0.085 
+Thread 3 (200): 0.085 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 2 (200): 0.079 
+Thread 0 (200): 0.084 
+Thread 3 (200): 0.084 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.086 
+Thread 2 (200): 0.080 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.086 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.113 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.114 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.112 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 0 (200): 0.094 
+Thread 3 (200): 0.086 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.083 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 1 (200): 0.117 
+Thread 3 (200): 0.110 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.085 
+Thread 0 (200): 0.087 
+Thread 3 (200): 0.086 
+
+ ---
+Thread 2 (200): 0.078 
+Thread 1 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+
+ ---
+Thread 1 (200): 0.079 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.086 
+Thread 3 (200): 0.084 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.115 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 0 (200): 0.087 
+Thread 2 (200): 0.089 
+Thread 3 (200): 0.086 
+
+ ---
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.086 
+Thread 0 (200): 0.087 
+Thread 1 (200): 0.078 
+
+ ---
+Thread 1 (200): 0.078 
+Thread 0 (200): 0.084 
+Thread 2 (200): 0.117 
+Thread 3 (200): 0.111 
+
+ ---
+Thread 1 (200): 0.081 
+Thread 2 (200): 0.081 
+Thread 3 (200): 0.084 
+Thread 0 (200): 0.087 
+
+ ---
+[mandelbrot thread]:		[84.311] ms
+Wrote image file mandelbrot-thread.ppm
+				(3.83x speedup from 4 threads)
+[mandelbrot serial]:		[193.148] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 1 (200): 0.086 
+Thread 2 (200): 0.078 
+Thread 3 (200): 0.056 
+Thread 0 (200): 0.125 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 3 (200): 0.041 
+Thread 2 (200): 0.055 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.040 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.050 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+Thread 2 (200): 0.075 
+Thread 3 (200): 0.065 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 2 (200): 0.058 
+Thread 0 (200): 0.066 
+Thread 3 (200): 0.052 
+
+ ---
+Thread 3 (200): 0.041 
+Thread 1 (200): 0.066 
+Thread 0 (200): 0.066 
+Thread 2 (200): 0.061 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 0 (200): 0.066 
+Thread 3 (200): 0.052 
+Thread 2 (200): 0.061 
+Thread 1 (200): 0.079 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.047 
+Thread 1 (200): 0.049 
+Thread 2 (200): 0.043 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.040 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.040 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 1 (200): 0.049 
+Thread 3 (200): 0.053 
+Thread 2 (200): 0.054 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.040 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 0 (200): 0.068 
+Thread 2 (200): 0.062 
+Thread 3 (200): 0.058 
+Thread 1 (200): 0.076 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+Thread 2 (200): 0.069 
+Thread 3 (200): 0.065 
+
+ ---
+Thread 1 (200): 0.049 
+Thread 3 (200): 0.053 
+Thread 2 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.040 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 3 (200): 0.052 
+Thread 2 (200): 0.065 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.040 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 2 (200): 0.064 
+Thread 3 (200): 0.052 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.042 
+Thread 1 (200): 0.048 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 2 (200): 0.043 
+Thread 3 (200): 0.044 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 3 (200): 0.039 
+Thread 2 (200): 0.043 
+Thread 1 (200): 0.049 
+Thread 0 (200): 0.067 
+
+ ---
+Thread 1 (200): 0.048 
+Thread 3 (200): 0.052 
+Thread 2 (200): 0.064 
+Thread 0 (200): 0.066 
+
+ ---
+Thread 1 (200): 0.049 
+Thread 3 (200): 0.051 
+Thread 2 (200): 0.045 
+Thread 0 (200): 0.067 
+
+ ---
+[mandelbrot thread]:		[65.834] ms
+Wrote image file mandelbrot-thread.ppm
+				(2.93x speedup from 4 threads)
+[mandelbrot serial]:		[322.748] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (100): 0.043 
+Thread 1 (100): 0.042 
+Thread 2 (100): 0.050 
+Thread 4 (100): 0.044 
+Thread 5 (100): 0.035 
+Thread 3 (100): 0.074 
+Thread 6 (100): 0.084 
+Thread 7 (100): 0.082 
+
+ ---
+Thread 2 (100): 0.035 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.043 
+Thread 5 (100): 0.037 
+Thread 4 (100): 0.044 
+Thread 3 (100): 0.058 
+Thread 6 (100): 0.055 
+Thread 7 (100): 0.048 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.044 
+Thread 7 (100): 0.042 
+Thread 6 (100): 0.079 
+Thread 3 (100): 0.088 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 7 (100): 0.061 
+Thread 6 (100): 0.055 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 5 (100): 0.036 
+Thread 4 (100): 0.044 
+Thread 6 (100): 0.050 
+Thread 7 (100): 0.043 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 5 (100): 0.044 
+Thread 7 (100): 0.043 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.056 
+Thread 6 (100): 0.053 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.056 
+Thread 5 (100): 0.046 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.052 
+Thread 3 (100): 0.056 
+
+ ---
+Thread 2 (100): 0.035 
+Thread 1 (100): 0.043 
+Thread 4 (100): 0.044 
+Thread 0 (100): 0.045 
+Thread 3 (100): 0.045 
+Thread 7 (100): 0.054 
+Thread 5 (100): 0.052 
+Thread 6 (100): 0.069 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 7 (100): 0.060 
+Thread 4 (100): 0.065 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.048 
+Thread 6 (100): 0.047 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.049 
+Thread 7 (100): 0.043 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.052 
+Thread 0 (100): 0.062 
+Thread 7 (100): 0.043 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.059 
+Thread 7 (100): 0.065 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.044 
+Thread 7 (100): 0.067 
+Thread 6 (100): 0.068 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 3 (100): 0.045 
+Thread 2 (100): 0.056 
+Thread 7 (100): 0.056 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.044 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.043 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 6 (100): 0.043 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.049 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.055 
+Thread 7 (100): 0.058 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.059 
+Thread 5 (100): 0.048 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 5 (100): 0.054 
+Thread 6 (100): 0.055 
+Thread 7 (100): 0.048 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.043 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.043 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 0 (100): 0.062 
+Thread 6 (100): 0.055 
+Thread 7 (100): 0.042 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 5 (100): 0.056 
+Thread 6 (100): 0.060 
+Thread 7 (100): 0.053 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 3 (100): 0.045 
+Thread 5 (100): 0.064 
+Thread 7 (100): 0.057 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 5 (100): 0.055 
+Thread 7 (100): 0.052 
+Thread 6 (100): 0.061 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 2 (100): 0.059 
+Thread 7 (100): 0.056 
+
+ ---
+Thread 2 (100): 0.035 
+Thread 1 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 6 (100): 0.060 
+Thread 7 (100): 0.060 
+Thread 5 (100): 0.055 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.054 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 7 (100): 0.043 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.044 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 3 (100): 0.045 
+
+ ---
+Thread 5 (100): 0.036 
+Thread 2 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.044 
+Thread 3 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+Thread 6 (100): 0.054 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 1 (100): 0.043 
+Thread 6 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.044 
+Thread 4 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 4 (100): 0.045 
+Thread 3 (100): 0.045 
+
+ ---
+Thread 2 (100): 0.036 
+Thread 5 (100): 0.036 
+Thread 6 (100): 0.043 
+Thread 1 (100): 0.043 
+Thread 7 (100): 0.043 
+Thread 0 (100): 0.044 
+Thread 3 (100): 0.045 
+Thread 4 (100): 0.045 
+
+ ---
+[mandelbrot thread]:		[44.802] ms
+Wrote image file mandelbrot-thread.ppm
+				(7.20x speedup from 8 threads)
+[mandelbrot serial]:		[193.169] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+Thread 2 (100): 0.039 
+Thread 4 (100): 0.021 
+Thread 5 (100): 0.021 
+Thread 3 (100): 0.035 
+Thread 6 (100): 0.032 
+Thread 7 (100): 0.026 
+
+ ---
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 3 (100): 0.022 
+Thread 0 (100): 0.041 
+Thread 4 (100): 0.054 
+Thread 6 (100): 0.036 
+Thread 7 (100): 0.030 
+Thread 5 (100): 0.053 
+
+ ---
+Thread 4 (100): 0.021 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 5 (100): 0.022 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+Thread 7 (100): 0.021 
+Thread 6 (100): 0.032 
+
+ ---
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 7 (100): 0.026 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 6 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 1 (100): 0.031 
+Thread 2 (100): 0.034 
+Thread 7 (100): 0.032 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 6 (100): 0.025 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 5 (100): 0.029 
+Thread 1 (100): 0.031 
+Thread 7 (100): 0.020 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 6 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 6 (100): 0.020 
+Thread 1 (100): 0.031 
+Thread 7 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.020 
+Thread 1 (100): 0.031 
+Thread 3 (100): 0.033 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.028 
+Thread 1 (100): 0.031 
+Thread 6 (100): 0.029 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.020 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.048 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.020 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.049 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 7 (100): 0.021 
+Thread 0 (100): 0.050 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 3 (100): 0.031 
+Thread 7 (100): 0.029 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 6 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.025 
+Thread 1 (100): 0.031 
+Thread 4 (100): 0.034 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 7 (100): 0.029 
+Thread 1 (100): 0.030 
+Thread 6 (100): 0.027 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 3 (100): 0.030 
+Thread 1 (100): 0.031 
+Thread 7 (100): 0.020 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 6 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 7 (100): 0.024 
+Thread 6 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 6 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 6 (100): 0.020 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 7 (100): 0.020 
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 6 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+Thread 7 (100): 0.020 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 5 (100): 0.022 
+Thread 4 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.030 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 7 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.022 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+Thread 6 (100): 0.020 
+Thread 4 (100): 0.022 
+Thread 5 (100): 0.022 
+Thread 3 (100): 0.023 
+Thread 7 (100): 0.020 
+Thread 2 (100): 0.027 
+Thread 1 (100): 0.031 
+Thread 0 (100): 0.037 
+
+ ---
+[mandelbrot thread]:		[36.924] ms
+Wrote image file mandelbrot-thread.ppm
+				(5.23x speedup from 8 threads)
+[mandelbrot serial]:		[322.748] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 0 (50): 0.022 
+Thread 1 (50): 0.024 
+Thread 2 (50): 0.021 
+Thread 10 (50): 0.018 
+Thread 6 (50): 0.021 
+Thread 3 (50): 0.034 
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.026 
+Thread 11 (50): 0.043 
+Thread 9 (50): 0.023 
+Thread 7 (50): 0.041 
+Thread 8 (50): 0.033 
+Thread 12 (50): 0.043 
+Thread 14 (50): 0.021 
+Thread 13 (50): 0.035 
+Thread 15 (50): 0.022 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.022 
+Thread 6 (50): 0.029 
+Thread 7 (50): 0.023 
+Thread 5 (50): 0.037 
+Thread 8 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.032 
+Thread 14 (50): 0.024 
+Thread 15 (50): 0.022 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 7 (50): 0.031 
+Thread 8 (50): 0.028 
+Thread 11 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 9 (50): 0.041 
+Thread 6 (50): 0.044 
+Thread 12 (50): 0.025 
+Thread 15 (50): 0.022 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 9 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 3 (50): 0.045 
+Thread 7 (50): 0.036 
+Thread 10 (50): 0.026 
+Thread 11 (50): 0.018 
+Thread 15 (50): 0.022 
+Thread 8 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 14 (50): 0.024 
+Thread 13 (50): 0.030 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 15 (50): 0.024 
+Thread 4 (50): 0.045 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.024 
+Thread 10 (50): 0.018 
+Thread 7 (50): 0.026 
+Thread 11 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.025 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 8 (50): 0.031 
+Thread 11 (50): 0.018 
+Thread 7 (50): 0.023 
+Thread 9 (50): 0.028 
+Thread 6 (50): 0.032 
+Thread 12 (50): 0.024 
+Thread 13 (50): 0.021 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 3 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.027 
+Thread 15 (50): 0.022 
+Thread 11 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 7 (50): 0.040 
+Thread 10 (50): 0.018 
+Thread 8 (50): 0.024 
+Thread 9 (50): 0.022 
+
+ ---
+Thread 2 (50): 0.021 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 0 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 5 (50): 0.028 
+Thread 4 (50): 0.035 
+Thread 7 (50): 0.023 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.025 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.027 
+Thread 13 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 12 (50): 0.034 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.030 
+Thread 12 (50): 0.021 
+Thread 6 (50): 0.022 
+Thread 10 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 11 (50): 0.023 
+Thread 14 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 13 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 8 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 6 (50): 0.041 
+Thread 12 (50): 0.023 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 15 (50): 0.022 
+Thread 7 (50): 0.038 
+Thread 9 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.027 
+Thread 6 (50): 0.023 
+Thread 15 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 7 (50): 0.023 
+Thread 8 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 9 (50): 0.029 
+Thread 11 (50): 0.018 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 3 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.026 
+Thread 8 (50): 0.036 
+Thread 11 (50): 0.025 
+Thread 12 (50): 0.022 
+Thread 6 (50): 0.032 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 15 (50): 0.022 
+Thread 7 (50): 0.045 
+Thread 9 (50): 0.046 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 15 (50): 0.028 
+Thread 14 (50): 0.031 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 12 (50): 0.022 
+Thread 13 (50): 0.022 
+Thread 6 (50): 0.031 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 7 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 6 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 7 (50): 0.023 
+Thread 12 (50): 0.024 
+Thread 13 (50): 0.021 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 3 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.025 
+Thread 10 (50): 0.018 
+Thread 14 (50): 0.021 
+Thread 9 (50): 0.022 
+Thread 11 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 13 (50): 0.026 
+Thread 12 (50): 0.034 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 11 (50): 0.018 
+Thread 5 (50): 0.018 
+Thread 7 (50): 0.029 
+Thread 6 (50): 0.038 
+Thread 10 (50): 0.018 
+Thread 12 (50): 0.025 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 15 (50): 0.022 
+Thread 9 (50): 0.040 
+Thread 8 (50): 0.047 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.026 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.025 
+Thread 14 (50): 0.032 
+Thread 15 (50): 0.034 
+Thread 13 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 14 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 5 (50): 0.026 
+Thread 12 (50): 0.021 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 6 (50): 0.022 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 7 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.031 
+Thread 15 (50): 0.030 
+Thread 11 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 8 (50): 0.023 
+Thread 7 (50): 0.036 
+Thread 9 (50): 0.022 
+Thread 10 (50): 0.018 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.023 
+Thread 12 (50): 0.025 
+Thread 13 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 8 (50): 0.039 
+Thread 11 (50): 0.029 
+Thread 10 (50): 0.044 
+Thread 15 (50): 0.022 
+Thread 9 (50): 0.050 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.020 
+Thread 14 (50): 0.030 
+Thread 12 (50): 0.021 
+Thread 7 (50): 0.023 
+Thread 15 (50): 0.022 
+Thread 8 (50): 0.044 
+Thread 9 (50): 0.036 
+Thread 13 (50): 0.045 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 15 (50): 0.022 
+Thread 7 (50): 0.032 
+Thread 12 (50): 0.021 
+Thread 14 (50): 0.029 
+Thread 13 (50): 0.040 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 15 (50): 0.024 
+Thread 14 (50): 0.034 
+Thread 7 (50): 0.024 
+Thread 11 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 10 (50): 0.018 
+Thread 12 (50): 0.021 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.035 
+Thread 15 (50): 0.024 
+Thread 12 (50): 0.021 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 13 (50): 0.034 
+Thread 7 (50): 0.040 
+Thread 9 (50): 0.021 
+Thread 8 (50): 0.027 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 1 (50): 0.030 
+Thread 6 (50): 0.030 
+Thread 7 (50): 0.023 
+Thread 8 (50): 0.023 
+Thread 14 (50): 0.021 
+Thread 13 (50): 0.026 
+Thread 12 (50): 0.031 
+Thread 11 (50): 0.034 
+Thread 9 (50): 0.054 
+Thread 15 (50): 0.032 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 5 (50): 0.018 
+Thread 7 (50): 0.025 
+Thread 6 (50): 0.022 
+Thread 10 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 11 (50): 0.018 
+Thread 14 (50): 0.021 
+Thread 12 (50): 0.025 
+Thread 13 (50): 0.022 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 3 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.021 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 13 (50): 0.021 
+Thread 12 (50): 0.021 
+Thread 7 (50): 0.032 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 3 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.025 
+Thread 10 (50): 0.018 
+Thread 12 (50): 0.021 
+Thread 11 (50): 0.018 
+Thread 8 (50): 0.022 
+Thread 9 (50): 0.022 
+Thread 14 (50): 0.027 
+Thread 13 (50): 0.040 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.022 
+Thread 7 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 1 (50): 0.034 
+Thread 5 (50): 0.027 
+Thread 12 (50): 0.021 
+Thread 8 (50): 0.033 
+Thread 9 (50): 0.031 
+Thread 6 (50): 0.021 
+Thread 14 (50): 0.021 
+Thread 11 (50): 0.040 
+Thread 13 (50): 0.034 
+Thread 15 (50): 0.022 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 5 (50): 0.019 
+Thread 6 (50): 0.022 
+Thread 7 (50): 0.023 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.032 
+Thread 8 (50): 0.046 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.024 
+Thread 9 (50): 0.042 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.023 
+Thread 15 (50): 0.022 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 7 (50): 0.036 
+Thread 11 (50): 0.030 
+Thread 12 (50): 0.021 
+
+ ---
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 6 (50): 0.027 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 7 (50): 0.036 
+Thread 15 (50): 0.022 
+Thread 5 (50): 0.045 
+Thread 13 (50): 0.023 
+Thread 10 (50): 0.026 
+Thread 8 (50): 0.037 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 12 (50): 0.021 
+Thread 10 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 9 (50): 0.022 
+Thread 1 (50): 0.046 
+Thread 7 (50): 0.036 
+Thread 11 (50): 0.018 
+Thread 15 (50): 0.022 
+Thread 14 (50): 0.033 
+Thread 8 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.025 
+Thread 12 (50): 0.021 
+Thread 14 (50): 0.021 
+Thread 13 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 10 (50): 0.024 
+Thread 11 (50): 0.018 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.029 
+Thread 13 (50): 0.021 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 6 (50): 0.026 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 7 (50): 0.025 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.024 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.024 
+Thread 14 (50): 0.032 
+Thread 13 (50): 0.036 
+Thread 15 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 11 (50): 0.029 
+Thread 8 (50): 0.047 
+Thread 9 (50): 0.039 
+Thread 7 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.021 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 8 (50): 0.033 
+Thread 9 (50): 0.022 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 7 (50): 0.023 
+Thread 6 (50): 0.030 
+Thread 12 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 13 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.029 
+Thread 13 (50): 0.022 
+Thread 11 (50): 0.028 
+Thread 14 (50): 0.021 
+Thread 9 (50): 0.035 
+Thread 12 (50): 0.027 
+Thread 8 (50): 0.040 
+Thread 7 (50): 0.023 
+Thread 6 (50): 0.034 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.027 
+Thread 15 (50): 0.022 
+Thread 7 (50): 0.026 
+Thread 11 (50): 0.018 
+Thread 13 (50): 0.022 
+Thread 10 (50): 0.018 
+Thread 12 (50): 0.021 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 7 (50): 0.029 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 14 (50): 0.028 
+Thread 15 (50): 0.022 
+Thread 7 (50): 0.024 
+Thread 13 (50): 0.022 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 3 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 8 (50): 0.025 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 7 (50): 0.023 
+Thread 6 (50): 0.030 
+Thread 9 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 11 (50): 0.018 
+Thread 10 (50): 0.018 
+Thread 9 (50): 0.022 
+Thread 8 (50): 0.023 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 14 (50): 0.021 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.021 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.021 
+Thread 2 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 15 (50): 0.022 
+Thread 6 (50): 0.025 
+Thread 10 (50): 0.018 
+Thread 11 (50): 0.018 
+Thread 7 (50): 0.023 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.022 
+Thread 14 (50): 0.021 
+Thread 8 (50): 0.032 
+Thread 9 (50): 0.022 
+
+ ---
+Thread 5 (50): 0.018 
+Thread 4 (50): 0.018 
+Thread 1 (50): 0.021 
+Thread 3 (50): 0.022 
+Thread 2 (50): 0.022 
+Thread 6 (50): 0.022 
+Thread 15 (50): 0.022 
+Thread 0 (50): 0.023 
+Thread 7 (50): 0.024 
+Thread 14 (50): 0.021 
+Thread 10 (50): 0.018 
+Thread 8 (50): 0.023 
+Thread 9 (50): 0.022 
+Thread 11 (50): 0.022 
+Thread 12 (50): 0.021 
+Thread 13 (50): 0.021 
+
+ ---
+[mandelbrot thread]:		[43.811] ms
+Wrote image file mandelbrot-thread.ppm
+				(7.37x speedup from 16 threads)
+[mandelbrot serial]:		[193.127] ms
+Wrote image file mandelbrot-serial.ppm
+Thread 1 (50): 0.017 
+Thread 0 (50): 0.031 
+Thread 2 (50): 0.021 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.020 
+Thread 5 (50): 0.033 
+Thread 7 (50): 0.018 
+
+ ---
+Thread 4 (50): 0.014 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 5 (50): 0.019 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 3 (50): 0.015 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 1 (50): 0.018 
+Thread 2 (50): 0.019 
+Thread 0 (50): 0.019 
+Thread 6 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 7 (50): 0.011 
+Thread 12 (50): 0.010 
+Thread 10 (50): 0.020 
+Thread 14 (50): 0.009 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 7 (50): 0.011 
+Thread 0 (50): 0.022 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 15 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.015 
+Thread 8 (50): 0.029 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 15 (50): 0.010 
+Thread 2 (50): 0.016 
+Thread 14 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 11 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.012 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 14 (50): 0.016 
+Thread 2 (50): 0.016 
+Thread 15 (50): 0.013 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 7 (50): 0.017 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.014 
+Thread 8 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 14 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 8 (50): 0.020 
+Thread 14 (50): 0.013 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 13 (50): 0.023 
+Thread 11 (50): 0.010 
+Thread 15 (50): 0.010 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 8 (50): 0.010 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 6 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 7 (50): 0.022 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+
+ ---
+Thread 14 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 15 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 9 (50): 0.011 
+Thread 0 (50): 0.019 
+Thread 8 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 14 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 12 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 8 (50): 0.010 
+
+ ---
+Thread 14 (50): 0.012 
+Thread 5 (50): 0.013 
+Thread 15 (50): 0.010 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 8 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 9 (50): 0.014 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 9 (50): 0.011 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 8 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+
+ ---
+Thread 14 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 15 (50): 0.010 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 6 (50): 0.011 
+Thread 12 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 10 (50): 0.011 
+Thread 14 (50): 0.010 
+Thread 8 (50): 0.021 
+Thread 15 (50): 0.010 
+Thread 9 (50): 0.017 
+Thread 11 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.010 
+Thread 7 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 14 (50): 0.016 
+Thread 15 (50): 0.014 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 11 (50): 0.020 
+Thread 9 (50): 0.025 
+Thread 10 (50): 0.023 
+Thread 12 (50): 0.020 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 15 (50): 0.010 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 14 (50): 0.017 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 14 (50): 0.016 
+Thread 2 (50): 0.016 
+Thread 15 (50): 0.014 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 11 (50): 0.010 
+Thread 7 (50): 0.016 
+Thread 10 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 10 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 11 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 8 (50): 0.010 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 11 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 12 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.012 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 14 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 15 (50): 0.014 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 7 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.024 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 15 (50): 0.010 
+Thread 12 (50): 0.012 
+Thread 14 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 6 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.011 
+Thread 14 (50): 0.010 
+Thread 10 (50): 0.014 
+Thread 11 (50): 0.013 
+Thread 9 (50): 0.018 
+Thread 8 (50): 0.022 
+Thread 7 (50): 0.028 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 7 (50): 0.021 
+Thread 6 (50): 0.011 
+Thread 8 (50): 0.017 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 9 (50): 0.018 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.012 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 10 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.012 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 12 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+
+ ---
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 13 (50): 0.009 
+Thread 0 (50): 0.020 
+Thread 6 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 6 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+
+ ---
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 11 (50): 0.010 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+Thread 6 (50): 0.016 
+Thread 8 (50): 0.010 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 7 (50): 0.011 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 6 (50): 0.011 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.020 
+Thread 15 (50): 0.010 
+Thread 14 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.011 
+Thread 7 (50): 0.017 
+Thread 11 (50): 0.010 
+Thread 8 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 9 (50): 0.011 
+
+ ---
+Thread 14 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 6 (50): 0.011 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 12 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 10 (50): 0.019 
+Thread 15 (50): 0.010 
+Thread 8 (50): 0.012 
+Thread 4 (50): 0.014 
+Thread 7 (50): 0.021 
+Thread 11 (50): 0.023 
+Thread 9 (50): 0.011 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 8 (50): 0.014 
+Thread 7 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 6 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 4 (50): 0.015 
+Thread 12 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 14 (50): 0.010 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 13 (50): 0.011 
+Thread 14 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 6 (50): 0.019 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.011 
+
+ ---
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 6 (50): 0.011 
+Thread 0 (50): 0.019 
+Thread 5 (50): 0.018 
+Thread 8 (50): 0.010 
+Thread 7 (50): 0.028 
+Thread 9 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 12 (50): 0.010 
+Thread 11 (50): 0.011 
+Thread 10 (50): 0.011 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+
+ ---
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.015 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 8 (50): 0.010 
+Thread 12 (50): 0.011 
+Thread 11 (50): 0.012 
+Thread 9 (50): 0.011 
+Thread 13 (50): 0.009 
+Thread 10 (50): 0.011 
+Thread 14 (50): 0.010 
+Thread 15 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 6 (50): 0.035 
+Thread 5 (50): 0.013 
+
+ ---
+Thread 15 (50): 0.010 
+Thread 6 (50): 0.012 
+Thread 5 (50): 0.013 
+Thread 4 (50): 0.014 
+Thread 3 (50): 0.015 
+Thread 2 (50): 0.016 
+Thread 1 (50): 0.018 
+Thread 0 (50): 0.019 
+Thread 14 (50): 0.010 
+Thread 7 (50): 0.011 
+Thread 9 (50): 0.011 
+Thread 8 (50): 0.010 
+Thread 13 (50): 0.009 
+Thread 11 (50): 0.010 
+Thread 10 (50): 0.011 
+Thread 12 (50): 0.010 
+
+ ---
+[mandelbrot thread]:		[26.604] ms
+Wrote image file mandelbrot-thread.ppm
+				(7.26x speedup from 16 threads)
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=24gb,ncpus=4,walltime=00:30:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=228,cput=00:01:58,mem=16348kb,ncpus=4,vmem=259184kb,walltime=00:00:44
+ 
+ 

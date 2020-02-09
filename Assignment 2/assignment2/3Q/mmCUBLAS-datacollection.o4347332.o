@@ -1,0 +1,17 @@
+=>> PBS: job killed: walltime 316 exceeded limit 310
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=00:05:10
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=98,cput=00:05:15,mem=289436kb,ncpus=16,vmem=9906128kb,walltime=00:05:18
+ 
+ 

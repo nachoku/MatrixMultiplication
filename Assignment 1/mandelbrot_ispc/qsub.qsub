@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -N 8
+#PBS -l select=1:ncpus=8:chip_type=e5-2665:mem=24gb
+#PBS -j oe
+module purge
+module load ispc
+cd $PBS_O_WORKDIR
+./mandelbrot_ispc --tasks
+./mandelbrot_ispc --tasks --view 2

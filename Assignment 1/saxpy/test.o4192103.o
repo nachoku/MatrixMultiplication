@@ -1,0 +1,19 @@
+[saxpy ispc]:		[23.436] ms	[12.716] GB/s	[1.707] GFLOPS
+[saxpy task ispc]:	[9.887] ms	[30.142] GB/s	[4.046] GFLOPS
+				(2.37x speedup from use of tasks)
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=14gb,ncpus=2,walltime=00:30:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=100,cput=00:00:01,mem=0kb,ncpus=2,vmem=0kb,walltime=00:00:01
+ 
+ 

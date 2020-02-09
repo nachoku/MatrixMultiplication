@@ -1,0 +1,31 @@
+MatrixA(3,3), MatrixB(3,3), MatrixC(3,3)
+Performance= 0.80 GFlop/s, Time= 0.000 msec, Size= 54 Ops
+Listing first 100 Differences > 0.000100...
+    Loc(0,0)	CPU=1.32678	GPU=2434979224928915554304.00000	Diff=2434979224928915554304.000000
+    Loc(1,0)	CPU=1.10141	GPU=0.00000	Diff=1.101405
+    Loc(2,0)	CPU=1.46563	GPU=0.00000	Diff=1.465627
+    Loc(0,1)	CPU=0.95586	GPU=0.00000	Diff=0.955862
+    Loc(1,1)	CPU=0.97480	GPU=0.00000	Diff=0.974799
+    Loc(2,1)	CPU=1.51192	GPU=0.00000	Diff=1.511916
+    Loc(0,2)	CPU=0.72044	GPU=0.00000	Diff=0.720437
+    Loc(1,2)	CPU=0.73103	GPU=0.00000	Diff=0.731029
+    Loc(2,2)	CPU=1.14159	GPU=2434979224928915554304.00000	Diff=2434979224928915554304.000000
+ 
+  Total Errors = 9
+Comparing CUBLAS Matrix Multiply with CPU results: FAIL
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=00:15:30
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=0,cput=00:00:00,mem=0kb,ncpus=16,vmem=0kb,walltime=00:00:01
+ 
+ 

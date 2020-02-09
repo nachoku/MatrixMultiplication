@@ -1,0 +1,19 @@
+Station0, process: 0
+SAME, process: 0 
+squareMatrixSideLength,4000,numMPICopies,1,walltime,365.137312
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=01:00:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=99,cput=00:06:06,mem=651988kb,ncpus=16,vmem=1164260kb,walltime=00:06:08
+ 
+ 

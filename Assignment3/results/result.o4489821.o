@@ -1,0 +1,43 @@
+Station0, process: 0
+SAME, process: 0 
+squareMatrixSideLength,4200,numMPICopies,1,walltime,419.313818
+Station0, process: 1
+Station0, process: 2
+Station0, process: 3
+Station0, process: 0
+DIFFERENT, process: 3 
+SAME, process: 0 
+SAME, process: 3 
+DIFFERENT, process: 0 
+squareMatrixSideLength,12600,numMPICopies,4,walltime,2876.099891
+Station0, process: 0
+Station0, process: 1
+Station0, process: 2
+Station0, process: 3
+Station0, process: 4
+Station0, process: 5
+Station0, process: 6
+Station0, process: 7
+Station0, process: 8
+DIFFERENT, process: 4 
+DIFFERENT, process: 7 
+DIFFERENT, process: 8 
+DIFFERENT, process: 5 
+SAME, process: 0 
+=>> PBS: job killed: walltime 3630 exceeded limit 3600
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=32gb,ncpus=64,walltime=01:00:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=903,cput=04:08:14,mem=6368736kb,ncpus=64,vmem=8628196kb,walltime=01:00:40
+ 
+ 

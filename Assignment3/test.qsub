@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -N result
+#PBS -l select=4:ncpus=16:mpiprocs=16:interconnect=fdr:mem=100gb,walltime=8:00:00
+#PBS -j oe
+module purge
+module load gcc/4.8.1 openmpi/1.8.1
+cd $PBS_O_WORKDIR
+mpiexec -n 1 ./Summa

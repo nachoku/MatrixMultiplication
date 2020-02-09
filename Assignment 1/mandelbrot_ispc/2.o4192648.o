@@ -1,0 +1,32 @@
+[mandelbrot serial]:		[322.953] ms
+Wrote image file mandelbrot-serial.ppm
+[mandelbrot ispc]:		[106.223] ms
+Wrote image file mandelbrot-ispc.ppm
+[mandelbrot multicore ispc]:	[13.462] ms
+Wrote image file mandelbrot-task-ispc.ppm
+				(3.04x speedup from ISPC)
+				(23.99x speedup from task ISPC)
+[mandelbrot serial]:		[194.022] ms
+Wrote image file mandelbrot-serial.ppm
+[mandelbrot ispc]:		[72.934] ms
+Wrote image file mandelbrot-ispc.ppm
+[mandelbrot multicore ispc]:	[12.276] ms
+Wrote image file mandelbrot-task-ispc.ppm
+				(2.66x speedup from ISPC)
+				(15.81x speedup from task ISPC)
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=24gb,ncpus=2,walltime=00:30:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=124,cput=00:00:10,mem=0kb,ncpus=2,vmem=0kb,walltime=00:00:12
+ 
+ 

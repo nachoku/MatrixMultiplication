@@ -1,0 +1,19 @@
+MatrixA(2400,2400), MatrixB(2400,2400), MatrixC(2400,2400)
+Performance= 740.71 GFlop/s, Time= 37.326 msec, Size= 27648000000 Ops
+Comparing CUBLAS Matrix Multiply with CPU results: PASS
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=16,walltime=00:15:10
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=101,cput=00:01:15,mem=246264kb,ncpus=16,vmem=9790344kb,walltime=00:01:17
+ 
+ 

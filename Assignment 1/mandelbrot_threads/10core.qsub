@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -N 10core
+#PBS -l select=1:ncpus=10:chip_type=e5-2670v2:mem=24gb
+#PBS -j oe
+module purge
+module load ispc
+cd $PBS_O_WORKDIR
+./mandelbrot --threads 20
+./mandelbrot --threads 20 --view 2
